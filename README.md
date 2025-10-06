@@ -1,6 +1,6 @@
 ﻿**Проект размещен на GitHub**
  
-С репозиторием проекта можно ознакомиться по ссылке: [https://github.com/tatikuklina/praktikum_lesson2_kta.git](https://github.com/tatikuklina/praktikum_lesson2_kta.git)
+С репозиторием проекта можно ознакомиться по ссылке: [https://github.com/tatikuklina/praktikum_teacher_tr.git]
 
 #  Описание проекта
  
